@@ -12,6 +12,7 @@ A custom Fight Club / Gym map located in an old dock building at the docks.
 <img width="1843" height="1088" alt="image" src="https://github.com/user-attachments/assets/70e80765-e2d4-4fd0-bfa3-d4ee98f4c38f" />
 <img width="2452" height="1054" alt="image" src="https://github.com/user-attachments/assets/59f2568c-7709-4077-b52d-1c5876076ba3" />
 <img width="1568" height="797" alt="image" src="https://github.com/user-attachments/assets/098ecae1-d8f6-45ae-80ca-c1ee5c576589" />
+<img width="2296" height="1128" alt="image" src="https://github.com/user-attachments/assets/2d11e99b-30c0-4b73-9133-d42dcf570c40" />
 
 ## Interested?
 If you're interested or have any questions, feel free to get in contact!
